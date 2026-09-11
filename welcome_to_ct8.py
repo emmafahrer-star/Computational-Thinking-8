@@ -27,4 +27,7 @@ print("\n\n")
                                                                                           
                                   
 print("Now it's your turn:")
-print("Find this line (line 30) in the welcome_to_ct8.py file, then change the message to say a fact about you.")                                  
+print("Here are some fun facts about me! 2 are truths and 1 is a lie!")
+print("I was born in Chicago, Illinois")              
+print("My favorite TV show is Gilmore Girls and Gossip Girl")       
+print("I speak 3 languages")             
