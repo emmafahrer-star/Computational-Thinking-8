@@ -18,9 +18,11 @@ elif answer1 == "a cafe":
     else:
         print ("Yummy! I got both too!")
 elif answer1 == "the zoo":
-    answer4 = input ("OMG you randomly saw your friend there! Fun! What animals do you want to see? reptiles or zebras?")
+    answer4 = input ("OMG you randomly saw your friend there! Fun! What animals do you want to see? reptiles, zebras, or butterflies?")
     if answer4 == "zebras":
         print("OMG there so cool! You got to feed one!")
+    elif answer4 == "butterflies":
+        print("Wow! There so pretty!")
     else:
         print("Wow there so big! Kinda scary...")
 else:
