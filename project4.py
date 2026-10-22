@@ -20,3 +20,4 @@ for i in range (5):
     else:
         print("HUH? Thats not an option, silly. Pick again")
 print("Thank you for using the Good Life physical therapy app! Have and AMAZING day!")
+quit()
