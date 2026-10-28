@@ -25,7 +25,7 @@ else:
     Vanessa_points += 1
 
 answer3 = input(" What job would you want to have, A-President, B-Pursue social media, C-Fashion Designer, D-Director/Photographer")
-if answer3 == "A"or "a":
+if answer3 == "A" or answer3 == "a":
     Blair_points += 1
 elif answer3 == "B":
     Serena_points += 1
